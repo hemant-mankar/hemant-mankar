@@ -101,7 +101,7 @@ VAE | CNN | Deep Learning
 
 # 🌐 Connect With Me
 
-LinkedIn → [[Add Your LinkedIn Link](https://www.linkedin.com/in/hemant-mankar25/)]
+LinkedIn → [[https://www.linkedin.com/in/hemant-mankar25/](https://www.linkedin.com/in/hemant-mankar25/)]
 GitHub → https://github.com/hemant-mankar
 Email →  hemantmankar2583@gmail.com
 
