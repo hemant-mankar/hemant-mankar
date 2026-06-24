@@ -1,7 +1,7 @@
 <h1 align="center">Hemant Mankar</h1>
 
 <h3 align="center">
-Electronics Engineering Student | Machine Learning | Full Stack Developer
+Electronics Engineering Student | Machine Learning | Full Stack Developer | Embedded Developer
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ Electronics Engineering Student | Machine Learning | Full Stack Developer
 | 💼 Role       | Electronics Engineering Student                          |
 | 📊 CGPA       | 8.07 / 10                                                |
 | 📍 Location   | Pune, Maharashtra, India 🇮🇳                            |
-| 🧠 Interests  | Machine Learning · Data Science · Full Stack Development |
+| 🧠 Interests  | Machine Learning · Data Science · Full Stack Development . Embedded System |
 | 🔭 Currently  | Learning AWS · MERN Stack · Deep Learning                |
 | 🤝 Open To    | Internships · Open Source · Collaborations               |
 | 🎯 Certifications |	AWS Certified Cloud Practitioner  |
@@ -49,6 +49,17 @@ AWS • Git • GitHub • Arduino • REST APIs
 ### ⚙️ Languages
 
 C++ • Python • JavaScript • SQL • HTML/CSS
+
+## ⚙️ Tech Stack
+
+### 🔹 Embedded & IoT
+
+STM32 • ESP32 • Arduino UNO • NodeMCU • Sensor Interfacing  
+
+### 🔹 Software & Tools
+
+Embedded C • MATLAB • Proteus • Multisim • STM32CubeIDE
+
 
 ---
 
@@ -96,6 +107,7 @@ VAE | CNN | Deep Learning
 🏅 NPTEL Data Analytics with Python
 🏅 NPTEL Cloud Computing
 🏅 MERN Stack Application Development
+🏅 Embedded System Developer Virtual Internship – AICTE EduSkills (Supported by Microchip) 
 
 ---
 
